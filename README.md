@@ -4,7 +4,7 @@ A full-stack user management app built with FastAPI (Python) and React (TypeScri
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Backend: Python, FastAPI, SQLAlchemy, Pydantic
 - Frontend: React (Vite + TypeScript), Tailwind CSS
@@ -13,7 +13,7 @@ A full-stack user management app built with FastAPI (Python) and React (TypeScri
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Backend
 
@@ -66,7 +66,7 @@ A full-stack user management app built with FastAPI (Python) and React (TypeScri
 
 ---
 
-## 🖥 How to Run Locally
+## How to Run Locally
 
 - Backend: http://localhost:8000
 - Frontend: http://localhost:5173
@@ -74,7 +74,7 @@ A full-stack user management app built with FastAPI (Python) and React (TypeScri
 
 ---
 
-## ⚠ Assumptions & Known Issues
+## Assumptions & Known Issues
 
 - PAN and Email must be unique
 - Phone must be exactly 10 digits
